@@ -1,7 +1,6 @@
 //6_16.c
 
 #include <stdio.h>
-#include <string.h>
 int main(void)
 {
 	float a ,b;
